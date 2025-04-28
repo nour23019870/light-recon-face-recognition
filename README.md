@@ -7,7 +7,7 @@
 
 A sophisticated face recognition system with advanced visual interface, real-time detection, and comprehensive profile management capabilities.
 
-![L1GHT REC0N Interface Preview](https://via.placeholder.com/800x450.png?text=L1GHT+REC0N+Interface)
+![L1GHT REC0N Interface Preview](img.jpg)
 
 ## ✨ Features
 
